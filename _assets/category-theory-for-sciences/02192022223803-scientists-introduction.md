@@ -14,7 +14,8 @@ Ontology Logs (ologs) - a diagram tool that depicts a system database [schema](0
 > What is Category Theory?
 
 The study of basic conceptual building blocks and how they combine to create scientific models.
-It is a branch of mathematics that is particularly useful for communicating ideas between different parts of mathematics.
+It is a branch of mathematics that is particularly useful for communicating ideas amoung other branches of mathematics.
+
 
 > What are example use cases of category theory?
 
